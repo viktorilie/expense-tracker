@@ -4,7 +4,8 @@ function App() {
   return (
     <>
       <div>
-        <h1>Button component</h1>
+        <h1>expense tracker</h1>
+
         <button className="btn btn-danger">Button bootstrap</button>
       </div>
     </>
